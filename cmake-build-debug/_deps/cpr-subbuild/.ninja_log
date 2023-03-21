@@ -1,0 +1,21 @@
+# ninja log v5
+1	57	7011035588004369	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	3b409c1234afd2d
+1	57	7011035588004369	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	3b409c1234afd2d
+58	6186	7011035649276111	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	8099eacb425cdf51
+58	6186	7011035649276111	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	8099eacb425cdf51
+6186	6327	0	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	f699e52c818fc2ef
+6186	6327	0	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	f699e52c818fc2ef
+6327	6379	7011035651211916	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	dcac57bb65cfe823
+6327	6379	7011035651211916	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	dcac57bb65cfe823
+6379	6429	7011035651711539	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	33b95b5f84a8b117
+6379	6429	7011035651711539	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	33b95b5f84a8b117
+6429	6479	7011035652224107	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	68031660c902078b
+6429	6479	7011035652224107	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	68031660c902078b
+6480	6530	7011035652731027	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	b20b36727aa71ffb
+6480	6530	7011035652731027	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	b20b36727aa71ffb
+6530	6580	7011035653210747	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	ccd023fcf9eaca1d
+6530	6580	7011035653210747	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	ccd023fcf9eaca1d
+6580	6654	7011035653950332	CMakeFiles/cpr-populate-complete	d639edacdbeb3697
+6580	6654	7011035653950332	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	d639edacdbeb3697
+6580	6654	7011035653950332	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete	d639edacdbeb3697
+6580	6654	7011035653950332	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	d639edacdbeb3697

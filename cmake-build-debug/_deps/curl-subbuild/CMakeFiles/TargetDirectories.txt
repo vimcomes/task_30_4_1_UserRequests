@@ -1,0 +1,3 @@
+C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir

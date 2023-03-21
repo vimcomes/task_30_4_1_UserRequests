@@ -1,0 +1,21 @@
+# ninja log v5
+1	80	7011035674260678	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	ecdb463746ec9645
+1	80	7011035674260678	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	ecdb463746ec9645
+80	22100	7011035894462931	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	49e3f0ba4ac53a7a
+80	22100	7011035894462931	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	49e3f0ba4ac53a7a
+22100	22246	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	227d31f82b479185
+22100	22246	0	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	227d31f82b479185
+22246	22298	7011035896430189	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	bad09d265bcac4e0
+22246	22298	7011035896430189	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	bad09d265bcac4e0
+22298	22351	7011035896959812	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	74c0eb1fddc73952
+22298	22351	7011035896959812	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	74c0eb1fddc73952
+22351	22402	7011035897469519	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	49a0876967130c36
+22351	22402	7011035897469519	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	49a0876967130c36
+22402	22453	7011035898002637	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	cad1cce402bc7c2a
+22402	22453	7011035898002637	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	cad1cce402bc7c2a
+22454	22504	7011035898512301	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	ce6b1ac073b10dd3
+22454	22504	7011035898512301	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	ce6b1ac073b10dd3
+22504	22575	7011035899201937	CMakeFiles/zlib-populate-complete	58901cae2f564071
+22504	22575	7011035899201937	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	58901cae2f564071
+22504	22575	7011035899201937	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	58901cae2f564071
+22504	22575	7011035899201937	C:/Users/vimco/CLionProjects/task_30.4.1_UserRequests/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	58901cae2f564071
